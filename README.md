@@ -11,7 +11,7 @@ This script generates a setup resource script for any existing Magento attribute
     
 NOTE: Must be run from the root of the Magento system with the existing attribute.    
 
-Original Post: http://alanstorm.com/magento_attribute_migration_generator
+Original Blog Post: http://alanstorm.com/magento_attribute_migration_generator
 
 N98-Magerun
 --------------------------------------------------
