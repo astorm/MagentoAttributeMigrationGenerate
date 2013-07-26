@@ -10,7 +10,7 @@
 // Feedback and forks/improvements welcome
 
 
-// Copyright (c) <2012> <PulseStorm LLC>
+// Copyright (c) 2012 - 2013 Pulse Storm LLC
 // 
 // Permission is hereby granted, free of charge, to any person
 // obtaining a copy of this software and associated documentation
